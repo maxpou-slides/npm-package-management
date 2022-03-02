@@ -1,3 +1,3 @@
-# An introduction to GraphQL
+# npm and node_modules
 
 Built with Spectacle 💜
