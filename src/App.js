@@ -10,7 +10,6 @@ import {
   CodePane,
   indentNormalizer,
   Appear,
-  Notes,
   Link,
 } from "spectacle";
 import material from "react-syntax-highlighter/dist/esm/styles/prism/material-dark";
@@ -20,6 +19,7 @@ import packageLockImg from "./img/package-lock.png";
 import npmImg from "./img/npm.png";
 import npmBisImg from "./img/npm2.png";
 import pnpmImg from "./img/pnpm.jpeg";
+import nmMemeImg from "./img/nm_meme.png";
 
 const theme = {
   colors: {
@@ -171,7 +171,7 @@ function App() {
       </Slide>
       <Slide backgroundColor="darkBg">
         <Heading>package-lock.json</Heading>
-        <Text>It's a snapshot for installed dependencies.</Text>
+        <Text>It's a snapshot for dependencies tree.</Text>
       </Slide>
       <Slide backgroundColor="darkBg">
         <Heading>
@@ -190,6 +190,14 @@ function App() {
           🐌 npm install: install deps, rewrite/update lockfile if needed
         </Text>
         <Text>🏎 npm ci: install deps, lockfile is readonly</Text>
+      </Slide>
+      <Slide backgroundColor="darkBg">
+        <Heading>The node_modules problem</Heading>
+        <Image
+          src={nmMemeImg}
+          alt="Node modules meme"
+          style={{ width: "40%", margin: "0 auto" }}
+        />
       </Slide>
       <Slide backgroundColor="darkBg">
         <Heading>Focus: Module resolution</Heading>
