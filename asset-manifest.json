@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/GraphQL-introduction/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/GraphQL-introduction/static/js/main.6fd4c4c7.chunk.js",
+    "main.js.map": "/GraphQL-introduction/static/js/main.6fd4c4c7.chunk.js.map",
+    "runtime-main.js": "/GraphQL-introduction/static/js/runtime-main.f4b72e29.js",
+    "runtime-main.js.map": "/GraphQL-introduction/static/js/runtime-main.f4b72e29.js.map",
+    "static/js/2.14e2ebc0.chunk.js": "/GraphQL-introduction/static/js/2.14e2ebc0.chunk.js",
+    "static/js/2.14e2ebc0.chunk.js.map": "/GraphQL-introduction/static/js/2.14e2ebc0.chunk.js.map",
+    "index.html": "/GraphQL-introduction/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/GraphQL-introduction/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.14e2ebc0.chunk.js.LICENSE.txt": "/GraphQL-introduction/static/js/2.14e2ebc0.chunk.js.LICENSE.txt",
+    "static/media/conventionalcommits.7b8ea1b9.png": "/GraphQL-introduction/static/media/conventionalcommits.7b8ea1b9.png",
+    "static/media/nm_meme.7c2c52e6.png": "/GraphQL-introduction/static/media/nm_meme.7c2c52e6.png",
+    "static/media/npm.28108f8b.png": "/GraphQL-introduction/static/media/npm.28108f8b.png",
+    "static/media/npm2.a50702d7.png": "/GraphQL-introduction/static/media/npm2.a50702d7.png",
+    "static/media/package-lock.62895903.png": "/GraphQL-introduction/static/media/package-lock.62895903.png",
+    "static/media/pnpm.8ab301dd.jpeg": "/GraphQL-introduction/static/media/pnpm.8ab301dd.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4b72e29.js",
+    "static/js/2.14e2ebc0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6fd4c4c7.chunk.js"
+  ]
+}
